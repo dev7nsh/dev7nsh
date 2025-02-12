@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dev7nsh@gmail.com**
 
-- ⚡ Fun fact **I think I am antisocial**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
