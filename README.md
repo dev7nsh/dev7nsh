@@ -6,6 +6,7 @@
 - 💬 Ask me about **node.js , frontend.**
 
 - 📫 How to reach me **dev7nsh@gmail.com**
+- linldin **https://www.linkedin.com/in/devansh-chouhan-795a7a28b/**
 
 
 
