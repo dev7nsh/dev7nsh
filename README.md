@@ -6,14 +6,14 @@
 - 💬 Ask me about **node.js , frontend.**
 
 - 📫 How to reach me **dev7nsh@gmail.com**
-- linldin **https://www.linkedin.com/in/devansh-chouhan-795a7a28b/**
+
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dev7nsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev7nsh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev7nsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev7nsh" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/dev7nsh](https://www.linkedin.com/in/devansh-chouhan-795a7a28b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev7nsh" height="30" width="40" /></a>
 <a href="https://instagram.com/dev7nsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev7nsh" height="30" width="40" /></a>
 </p>
 
