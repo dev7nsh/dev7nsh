@@ -69,20 +69,3 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev7nsh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev7nsh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev7nsh&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev7nsh&label=Profile+Views&color=6E40C9&style=flat" alt="Profile Views"/>
-</div>
