@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on exciting **full-stack projects**
 - 🚀 Founder of **[devopsby.me](https://devopsby.me)**
-- 🌐 Personal website: **[chouhan.me](https://chouhan.me)**
+- 🌐 Personal website: **[chouhan.me](https://chouhandev.me)**
 - 🌱 I'm currently learning **Go & System Design**
 - 💬 Ask me about **Node.js, TypeScript, MongoDB, and C++**
 - 📫 Reach me at **dev7nsh@gmail.com**
