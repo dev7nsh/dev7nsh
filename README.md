@@ -11,7 +11,8 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I'm currently working on exciting **full-stack projects**
-- 🚀 Founder of **[NOTHING](https://devopsby.me)**
+- 🚀 making **[fithit](https://fithit.app)**
+- 🚀 making **[.](https://devopsby.me)**
 - 🌐 Personal website: **[chouhan.me](https://chouhandev.me)**
 - 🌱 I'm currently learning **Go & System Design**
 - 💬 Ask me about **Node.js, TypeScript, MongoDB, and C++**
